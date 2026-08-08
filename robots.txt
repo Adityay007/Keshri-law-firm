@@ -1,0 +1,9 @@
+# Kesari Law Firm — robots.txt
+# This site is fully open to indexing. It is an informational website only,
+# published in accordance with the Bar Council of India Rules, and is not
+# intended as advertising or solicitation. See /disclaimer.html for details.
+
+User-agent: *
+Allow: /
+
+Sitemap: https://www.kesarilawfirm.com/sitemap.xml
